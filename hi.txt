@@ -1,0 +1,1 @@
+"mongodb+srv://cyperblog:om4cUuUq42UP6roH@cluster0.klmk5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
